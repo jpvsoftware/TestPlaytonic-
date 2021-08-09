@@ -1,0 +1,7 @@
+com\playtomic\tests\wallet\WalletApplication.class
+com\playtomic\tests\wallet\repository\AccountRepository.class
+com\playtomic\tests\wallet\service\StripeServiceException.class
+com\playtomic\tests\wallet\api\WalletController.class
+com\playtomic\tests\wallet\service\AccountService.class
+com\playtomic\tests\wallet\service\StripeService.class
+com\playtomic\tests\wallet\model\Account.class
